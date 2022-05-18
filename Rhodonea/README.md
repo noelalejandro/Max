@@ -2,7 +2,7 @@
 [![Rhodonea.amxd](https://github.com/noelalejandro/noelalejandro.github.io/blob/main/assets/Rhodonea.amxd/Rhodonea.amxd.png)](https://youtu.be/5eo9lXczmhk)
 ###### Click Image To Watch Demo
 
-#### [Rhodonea.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea.amxd) is an audio-reactive visualizer in the form of a Max for Live device, deisgned and programmed for use in Ableton Live Suite. Drawing upon the legacy of Italian mathematician Guido Grandi (1671-1742), Rhodonea.amxd generates "rose" polar coordinate graphs, of which the user has control over:
+#### [Rhodonea.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) is an audio-reactive visualizer in the form of a Max for Live device, deisgned and programmed for use in Ableton Live Suite. Drawing upon the legacy of Italian mathematician Guido Grandi (1671-1742), Rhodonea.amxd generates "rose" polar coordinate graphs, of which the user has control over:
 - RGBA Values
 - Rotation
 - Zoom
@@ -14,7 +14,7 @@
 
 ## Install Rhodonea.amxd
 
-1. Follow the link to the [Rhodonea.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea.amxd) repository
+1. Follow the link to the [Rhodonea.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) repository
 2. Copy raw contents
 3. Open Ableton Live Suite (compatible with version 10 or later)
 4. Navigate to "Max for Live" in Live's browser
