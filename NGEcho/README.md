@@ -2,22 +2,23 @@
 [![NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho.amxd.png)](youtubelink)
 ###### Click Image To Watch Demo
 
-#### [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) is an Feedback Delay Network (FDN) Echo Machine & Reverberator, deisgned and programmed for use in Ableton Live Suite. Drawing upon the legacy of digital signal processing pioneers Manfred Schroeder, Ben Logan, John Stautner, and Miller Puckette, NGEcho.amxd is capable of simulating warbly tape echoes, lush reverbs, and infinite decay. Users have control over:
-- Input/Output Gain
+#### [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) is a Feedback Delay Network (FDN) Echo Machine & Reverberator, designed and programmed for use in Ableton Live Suite. Drawing upon the legacy of digital signal processing pioneers Manfred Schroeder, Ben Logan, John Stautner, and Miller Puckette, NGEcho.amxd is capable of simulating warbly tape echoes or lush reverbs with infinite decay. Users have control over:
+- Input/Output gain
 - Pre-Delay
 - Delay Time in two modes: Free(ms) & Sync(bpm)
 - Feedback
 - Blend which smoothens out transients
-- Lo Cut, Hi Cut, & Q on 
+- Lo Cut/Hi Cut/Q of a State Variable Filter on the device's output
+- Dry/Wet mix amount
 
-#### In its current form, Rhodonea.amxd automatically takes an audio signal input to modulate RGB values. In later Iterations, I hope to implement an auto/manual toggle for complete control over color output. This device is a derivative of code by [Umut Eldem](https://github.com/umutreldem/hearing-glass/tree/main/tutorials), licensed under GNU General Public LIcense v3 (GPL 3.0).
+#### In its current form, NGEcho.amxd is strictly for use in Ableton Live Suite. In later iterations, I intend to implement the device as a VST3 & AU component. As a proof of concept, I have created them as VST3 & AU however the GUI leaves much to be desired.
 
 ## Install NGEcho.amxd
 
 1. Follow the link to the [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/NGEcho/NGEcho.amxd) repository
 2. Download raw file
 3. Place device in the Devices folder of your Ableton User Library
-
+4. Navigate to the Max For Live tab in your Ableton Live Browser Window, the device should populate in the Max Audio Effect folder
 
 ## Design Process
 #### Learn
