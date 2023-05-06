@@ -1,14 +1,14 @@
 # NGEcho.amxd
-[![NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho.amxd.png)](https://youtu.be/5eo9lXczmhk)
+[![NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho.amxd.png)](youtubelink)
 ###### Click Image To Watch Demo
 
-#### [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) is an audio-reactive visualizer in the form of a Max for Live device, deisgned and programmed for use in Ableton Live Suite. Drawing upon the legacy of Italian mathematician Guido Grandi (1671-1742), Rhodonea.amxd generates "rose" polar coordinate graphs, of which the user has control over:
-- RGBA Values
-- Rotation
-- Zoom
-- Point Size
-- Smoothing
-- Frequency
+#### [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) is an Feedback Delay Network (FDN) Echo Machine & Reverberator, deisgned and programmed for use in Ableton Live Suite. Drawing upon the legacy of digital signal processing pioneers Manfred Schroeder, Ben Logan, John Stautner, and Miller Puckette, NGEcho.amxd is capable of simulating warbly tape echoes, lush reverbs, and infinite decay. Users have control over:
+- Input/Output Gain
+- Pre-Delay
+- Delay Time in two modes: Free(ms) & Sync(bpm)
+- Feedback
+- Blend which smoothens out transients
+- Lo Cut, Hi Cut, & Q on 
 
 #### In its current form, Rhodonea.amxd automatically takes an audio signal input to modulate RGB values. In later Iterations, I hope to implement an auto/manual toggle for complete control over color output. This device is a derivative of code by [Umut Eldem](https://github.com/umutreldem/hearing-glass/tree/main/tutorials), licensed under GNU General Public LIcense v3 (GPL 3.0).
 
@@ -16,13 +16,8 @@
 
 1. Follow the link to the [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/NGEcho/NGEcho.amxd) repository
 2. Download raw file
-3. Navigate to the Devices folder in your Ableton User Library
-4. Expand the Max Audio Effect tab
-5. Double-click the Max Audio Effect device
-6. Press the Edit Button on the Device Title Bar
-7. Press cmd+a and delete the contents
-8. Press cmd+v to paste raw code
-9. Save in Presentation Mode
+3. Place device in the Devices folder of your Ableton User Library
+
 
 ## Design Process
 #### Learn
