@@ -1,5 +1,5 @@
 # NGEcho.amxd
-[![NGEcho.amxd](https://github.com/noelalejandro/noelalejandro.github.io/blob/main/assets/NGEcho.amxd/NGEcho.amxd.png)](https://youtu.be/5eo9lXczmhk)
+[![NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho.amxd.png)](https://youtu.be/5eo9lXczmhk)
 ###### Click Image To Watch Demo
 
 #### [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) is an audio-reactive visualizer in the form of a Max for Live device, deisgned and programmed for use in Ableton Live Suite. Drawing upon the legacy of Italian mathematician Guido Grandi (1671-1742), Rhodonea.amxd generates "rose" polar coordinate graphs, of which the user has control over:
