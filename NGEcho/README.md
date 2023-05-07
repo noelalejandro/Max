@@ -38,6 +38,7 @@
 ###### [1] [Cycling '74 Max 8 Documentation](https://docs.cycling74.com/max8)
 ###### [2] [Cycling '74 Forums](https://cycling74.com/forums/page/1)
 ###### [3] [Cycling ‘74 YouTube - “Max For Live Best Practices” Tutorial](https://youtu.be/7mk4JMBVDZ4)
-###### [4] ["Physical Audio Signal Processing For Virtual Musical Instruments And Audio Effects" - Julius O. Smith III](https://ccrma.stanford.edu/~jos/pasp/)
+###### [4] ["Physical Audio Signal Processing" - Julius O. Smith III](https://ccrma.stanford.edu/~jos/pasp/)
 ###### [5] ["The Theory And Technique Of Electronic Music" - Miller Puckette](http://msp.ucsd.edu/techniques/latest/book.pdf)
 ###### [6] ["Musical Applications Of Microprocessors" - Hal Chamberlin](http://sites.music.columbia.edu/cmc/courses/g6610/fall2016/week8/Musical_Applications_of_Microprocessors-Charmberlin.pdf)
+###### [7] ["Building The Erbe Verb" - Tom Erbe](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/building-the-erbe-verb-extending-the-feedback-delay-network.pdf?c=icmc;idno=bbp2372.2015.054;format=pdf)
