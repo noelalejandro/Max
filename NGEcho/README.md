@@ -11,7 +11,7 @@
 - Lo Cut/Hi Cut/Q of a State Variable Filter on the device's output
 - Dry/Wet mix amount
 
-#### In its current form, NGEcho.amxd is strictly for use in Ableton Live Suite. In later iterations, I intend to implement the device as a VST3 & AU component. As a proof of concept, I have created them as VST3 & AU however the GUI leaves much to be desired.
+#### In its current form, NGEcho.amxd is strictly for use in Ableton Live Suite though, in later iterations, I intend to implement the device as a VST3 & AU component. As a proof of concept, I have created them as VST3 & AU using Max's RNBO Audio Plugin Export functionality. A basic plugin is created using the JUCE framework but the GUI leaves much to be desired. My intention is to develop the programming skills required to improve upon this user interactivity. 
 
 ## Install NGEcho.amxd
 
