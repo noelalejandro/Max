@@ -20,9 +20,12 @@
 3. Place .amxd file in the Devices folder of your Ableton User Library
 4. Navigate to the Max For Live tab in your Ableton Live browser window, the device should populate in the Max Audio Effect folder
 
+## Background
+####
+My goal with this research was to develop a reverb plugin that would be utilized by musicians for sound design and dynamic performance, and by academics who are interested in learning the basics of digital reverb algorithm design. This project stems from my desire to understand digital signal processing on a deeper level, and to develop tools for artists to use in their creative endeavors. 
+
 ## Design Process
-#### Research
-maushcnllasknc
+#### Learn
 
 #### Refine
 
