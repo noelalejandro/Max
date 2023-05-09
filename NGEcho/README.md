@@ -37,7 +37,9 @@ Drawing inspiration from these topologies, I planned to create a reverb that is 
 ## Design Process
 #### Learn
 My process began with research. I poured over Julius O. Smith's "Physical Audio Signal Processing", specifically the sections on [Allpass Filters](https://ccrma.stanford.edu/~jos/pasp/Allpass_Filters.html), [Feedback Delay Networks](https://ccrma.stanford.edu/~jos/pasp/Feedback_Delay_Networks_FDN.html), and the [Tapped Delay Line (TDL)](https://ccrma.stanford.edu/~jos/pasp/Tapped_Delay_Line_TDL.html). These are the essential building blocks of digital reverberation algorithms, and I wanted to understand the math and science behind how they work. I implemented this [Allpass Filter](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ap_diagram.png) in Max 8 using the Gen~ operator. 
-![Allpass Filter](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ap.png).
+
+<img src="[https://your-image-url.type](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ap.png)" width="100" height="100">
+
 #### Refine
 
 #### Iterate
