@@ -71,7 +71,11 @@ The tempo sync functionality was tricky to implement. I had to figure out a way 
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/controlmode.png" width="50%" height="50%">
 
-I then had to do the math to convert whatever sample rate was chosen by the user to milliseconds in order for the algorithm to be able to process at a per-sample basis. This can be seen on the far right of the image below.
+Similarly, I developed a toggle to switch between various subdivisions of a measure.
+
+<img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/sync.png" width="50%" height="50%">
+
+I then did the calculations to convert whatever sample rate was chosen by the user to milliseconds in order for the algorithm to be able to process at a per-sample basis. This can be seen on the far right of the image below.
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ngecho_max.png" width="75%" height="75%">
 
