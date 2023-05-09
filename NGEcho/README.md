@@ -55,13 +55,8 @@ I then began to assemble the Input, FDN, and Output sections.
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/input.png" width="50%" height="50%">
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/output.png" width="50%" height="50%">
 
-#### Refine
-
-#### Iterate
-
-#### Package
-
-#### Beta Test
+#### Alpha Test
+I used various forms of social media to reach out to musicians, colleagues, and anyone interested in trying out the device in order to provide feedback that I could then use to improve upon the design. I received messages an astounding 30 volunteers! I sent 
 
 #### Re-Iterate
 
