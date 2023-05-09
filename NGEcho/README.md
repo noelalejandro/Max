@@ -67,7 +67,9 @@ The responses were positive, and many users wanted implementations that I had no
 - Low Cut and High Cut filters with variable resonance
 
 #### Re-Iterate
+The tempo sync functionality was tricky to implement. I had to figure out a way to switch the Time knob from milliseconds to subdivisions of the transport clock in Ableton. This required duplicating the knob, changing its values and range, and figuring out how to hide one while the other was visible. 
 
+<img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/controlmode.png" width="50%" height="50%">
 
 ## References
 ###### [1] [Cycling '74 Max 8 Documentation](https://docs.cycling74.com/max8)
