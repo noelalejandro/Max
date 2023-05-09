@@ -44,7 +44,7 @@ I encapsulated this bit of code, named "gen ap", to be able to duplicate it easi
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/apchain.png" width="50%" height="50%">
 
-Here you can see that the delay line lengths (delay time) are mutually prime and span successive orders. This is done in order to minimize the overlap of their frequency responses, to inhibit the build up of resonance and beating.
+Here you can see that the delay line lengths are mutually prime and span successive orders. This is done in order to minimize the overlap of their frequency responses, to inhibit the build up of resonance and beating. The delay time is also being modulated by an lfo.
 
 #### Refine
 
