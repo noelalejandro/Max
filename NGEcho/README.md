@@ -30,6 +30,10 @@ Early pioneers of digital reverberation include Manfred Schroeder and Ben Logan 
 
 In 1977, Christopher Moore left Lexicon to start his own company called Ursa Major. He developed a complex single feedback delay line with twenty-four taps, and slowly modulated and randomized the time of each one. This effectively increases the echo density and adds even more complexity upon each recursion through the network. In 1982, John Stautner & Miller Puckette devised a delay line feedback matrix based on the Hadamard matrix. The innovation that was introduced with this design was a unity gain feedback matrix, meaning the reverb could be sustained infinitely. This was not possible with the previous reverb topologies. David Griesenger, another key engineer at Lexicon, introduced a figure-8 feedback loop with modulated allpass filters nested between each delay line. Over each recursion of the loop, echoes become more complex and subtle phasing introduced. 
 
+## Tools
+####
+Drawing inspiration from these topologies, I planned to create a reverb that is variable in its echo density, coloration, diffusion of early reflections, with a smooth exponential decay. The tool I chose to undertake this project was Max 8. Max is a visual programming language that is used by composers, performers, software designers, researchers, and artists to develop customizable tools for any given purpose. Within the Max patching environment, there is an object called Gen~ that allows for the combination of procedural commands with visual programming. Gen~ addresses audio signals on a single-sample basis, rather than in vector buffers, making it much more efficient than the standard MSP objects. Gen~, as well as RNBO~, compiles C++ code as you work and this code can be exported to create VST, AU, and iOS applications.
+
 ## Design Process
 #### Learn
 
