@@ -21,7 +21,8 @@
 4. Navigate to the Max For Live tab in your Ableton Live browser window, the device should populate in the Max Audio Effect folder
 
 ## Design Process
-#### Learn
+#### Research
+maushcnllasknc
 
 #### Refine
 
