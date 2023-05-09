@@ -60,6 +60,12 @@ I used various forms of social media to reach out to musicians, colleagues, and 
 
 How does it sound? Do the parameters make sense? What does it lack? What could be omitted?
 
+The responses were positive, and many users wanted implementations that I had not considered. Most agreed that it acted more as an echo device that could emulate a reverb. So of the improvements and modifications, the most common were:
+
+- Tempo sync with subdivisions
+- Possibility of shorter delay times for flanger-like effects
+- Low Cut and High Cut filters with variable resonance
+
 #### Re-Iterate
 
 
