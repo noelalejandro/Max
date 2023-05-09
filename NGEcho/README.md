@@ -36,13 +36,15 @@ Drawing inspiration from these topologies, I planned to create a reverb that is 
 
 ## Design Process
 #### Learn
-My process began with research. I poured over Julius O. Smith's ["Physical Audio Signal Processing"](https://ccrma.stanford.edu/~jos/pasp/), specifically the sections on Allpass Filters, Feedback Delay Networks (FDN), and the Tapped Delay Line (TDL). These are the essential building blocks of digital reverberation algorithms, and I wanted to understand the math and science behind how they work. I implemented this [Allpass Filter](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ap_diagram.png) in Max 8 using the Gen~ operator.
+My process began with research: I poured over Julius O. Smith's ["Physical Audio Signal Processing"](https://ccrma.stanford.edu/~jos/pasp/), specifically the sections on Allpass Filters, Feedback Delay Networks (FDN), and the Tapped Delay Line (TDL). These are the essential building blocks of digital reverberation algorithms, and I wanted to understand the math and science behind how they work. I implemented this [Allpass Filter](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ap_diagram.png) in Max 8 using the Gen~ operator.
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ap.png" width="50%" height="50%">
 
 I encapsulated this bit of code, named "gen ap", to be able to duplicate it easily. I then created a chain of six Allpass Filters.
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/apchain.png" width="50%" height="50%">
+
+Here you can see that the delay line lengths (delay time) are mutually prime and span successive orders. This is done in order to minimize the overlap of their frequency responses, to inhibit the build up of resonance and beating.
 
 #### Refine
 
