@@ -40,7 +40,7 @@ My process began with research: I poured over Julius O. Smith's ["Physical Audio
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ap.png" width="50%" height="50%">
 
-I encapsulated this bit of code, named "gen ap", to be able to duplicate it easily. I then created a chain of six Allpass Filters.
+I encapsulated this bit of code, named "gen ap", to be able to duplicate it easily. I then created a chain of five Allpass Filters.
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/apchain.png" width="50%" height="50%">
 
