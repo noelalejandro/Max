@@ -50,6 +50,11 @@ I continued by looking into Stautner' & Puckette's FDN design. A essential compo
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/hadamard.png" width="50%" height="50%">
 
+I then began to assemble the Input, FDN, and Output sections.
+
+<img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/input.png" width="50%" height="50%">
+<img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/output.png" width="50%" height="50%">
+
 #### Refine
 
 #### Iterate
