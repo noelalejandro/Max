@@ -57,11 +57,10 @@ I then began to assemble the Input, FDN, and Output sections.
 
 #### Alpha Test
 I used various forms of social media to reach out to musicians, colleagues, and anyone interested in trying out the device in order to provide feedback that I could use to improve upon its design. I received messages an astounding 30 volunteers and sent an email with the device attached. I didn't want to set too many parameters for their exploration, but I did ask for some specific feedback:
-#####
-How does it sound? 
-Do the parameters make sense? 
-What does it lack? 
-What could be omitted?
+- How does it sound? 
+- Do the parameters make sense? 
+- What does it lack? 
+- What could be omitted?
 
 #### Re-Iterate
 
