@@ -15,15 +15,9 @@
 ## Install Rhodonea.amxd
 
 1. Follow the link to the [Rhodonea.amxd](https://github.com/noelalejandro/Max/blob/main/Rhodonea/Rhodonea.amxd) repository
-2. Copy raw contents
-3. Open Ableton Live Suite (compatible with version 10 or later)
-4. Navigate to "Max for Live" in Live's browser
-5. Expand the Max Audio Effect tab
-6. Double-click the Max Audio Effect device
-7. Press the Edit Button on the Device Title Bar
-8. Press cmd+a and delete the contents
-9. Press cmd+v to paste raw code
-10. Save in Presentation Mode
+2. Download raw file
+3. Place .amxd file in the Devices folder of your Ableton User Library
+4. Navigate to the Max For Live tab in your Ableton Live browser window, the device should populate in the Max Audio Effect folder
 
 ## Design Process
 #### Learn
