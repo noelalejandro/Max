@@ -1,6 +1,6 @@
 # NGEcho.amxd
-[![NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho.amxd.png)](youtubelink)
-###### Click Image To Watch Demo
+![NGEcho.amxd]
+###### Video Demo Coming Soon!
 
 #### [NGEcho.amxd](https://github.com/noelalejandro/Max/blob/main/NGEcho/NGEcho.amxd) is a Feedback Delay Network (FDN) Echo Machine & Reverberator, designed and programmed for use in Ableton Live Suite. Drawing upon the legacy of digital signal processing pioneers Manfred Schroeder, Ben Logan, John Stautner, and Miller Puckette, NGEcho.amxd is capable of simulating warbly tape echoes or lush reverbs with infinite decay. Users have control over:
 - Input/Output gain
