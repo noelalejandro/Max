@@ -36,7 +36,7 @@ Drawing inspiration from these topologies, I planned to create a reverb that is 
 
 ## Design Process
 #### Learn
-
+My process began with research. I poured over Julius O. Smith's "Physical Audio Signal Processing", specifically the sections on [Allpass Filters](https://ccrma.stanford.edu/~jos/pasp/Allpass_Filters.html), [Feedback Delay Networks](https://ccrma.stanford.edu/~jos/pasp/Feedback_Delay_Networks_FDN.html), and [Tapped Delay Line (TDL)](https://ccrma.stanford.edu/~jos/pasp/Tapped_Delay_Line_TDL.html).
 #### Refine
 
 #### Iterate
