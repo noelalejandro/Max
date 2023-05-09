@@ -71,6 +71,10 @@ The tempo sync functionality was tricky to implement. I had to figure out a way 
 
 <img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/controlmode.png" width="50%" height="50%">
 
+I then had to do the math to convert whatever sample rate was chosen by the user to milliseconds in order for the algorithm to be able to process at a per-sample basis. This can be seen on the far right of the image below.
+
+<img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/ngecho_max.png" width="50%" height="50%">
+
 ## References
 ###### [1] [Cycling '74 Max 8 Documentation](https://docs.cycling74.com/max8)
 ###### [2] [Cycling '74 Forums](https://cycling74.com/forums/page/1)
