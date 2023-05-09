@@ -46,6 +46,10 @@ I encapsulated this bit of code, named "gen ap", to be able to duplicate it easi
 
 Here you can see that the delay line lengths are mutually prime and span successive orders. This is done in order to minimize the overlap of their frequency responses, to inhibit the build up of resonance and beating. The delay time is also being modulated by an lfo.
 
+I continued by looking into Stautner' & Puckette's FDN design. A essential component of any FDN is its matrix. There are various matrices that have been implemented in different reverb designs but I chose to include a [4x4 Hadamard Matrix](https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/hadamard_matrix.png), as shown below.
+
+<img src="https://github.com/noelalejandro/Max/blob/main/assets/NGEcho/hadamard.png" width="50%" height="50%">
+
 #### Refine
 
 #### Iterate
